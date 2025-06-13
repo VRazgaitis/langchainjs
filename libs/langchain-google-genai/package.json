@@ -1,6 +1,6 @@
 {
-  "name": "@langchain/google-genai",
-  "version": "0.2.11",
+  "name": "@higharc/google-genai",
+  "version": "0.2.11-vr",
   "description": "Google Generative AI integration for LangChain.js",
   "type": "module",
   "engines": {
